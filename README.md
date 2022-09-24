@@ -12,6 +12,6 @@
 
 ---
 
-![LOGO] (/home/oscarfarias/Escritorio/TP1/Logo_Global_Seg.jpg)
+![LOGO](/home/oscarfarias/Escritorio/TP1/Logo_Global_Seg.jpg "No se encontró imagen")
 
 ### GLOBAL SEG!!!
