@@ -1,6 +1,6 @@
 # Ideas para nuestro MarketPlace
 ---
 ## Referencias
-MercadoLibre[https://mercadoLibre.com.ar]
+MercadoLibre : [https://mercadoLibre.com.ar]
 
-[NercadoLibre][MercadoLibre]
+[Nercado Libre] [MercadoLibre]
