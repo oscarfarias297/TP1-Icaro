@@ -1,3 +1,3 @@
-# IDEAS PARA NUESTRO MARKET PLACE
+# Ideas para nuestro MarketPlace
 ---
 ## Referencias
