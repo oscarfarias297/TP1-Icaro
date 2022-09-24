@@ -1,4 +1,4 @@
-# Ideas para nuestro MarketPlace
+# GLOBAL SEG!!!
 ---
 ## SOLUCIONES EN MANTENIMIENTO, SEGURIDAD E HIGIENE
 
@@ -12,6 +12,6 @@
 
 ---
 
-![Texto alternativo](/home/oscarfarias/Escritorio/TP1)
+![Texto alternativo](/home/oscarfarias/Escritorio/TP1/Logo Global Seg.jpg)
 
 ### GLOBAL SEG!!!
