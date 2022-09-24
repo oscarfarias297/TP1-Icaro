@@ -12,6 +12,6 @@
 
 ---
 
-![Texto alternativo](/home/oscarfarias/Escritorio/TP1/Logo Global Seg.jpg)
+![Texto alternativo](/home/oscarfarias/Escritorio/TP1/Logo_Global_Seg.jpg)
 
 ### GLOBAL SEG!!!
