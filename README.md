@@ -21,6 +21,6 @@
 ### Nuestra Priodidad:
 - Siempre dispuestos a brindar un servicio 
 
-![LOGO](/home/oscarfarias/Escritorio/TP1/Logo_Global_Seg.jpg "No se encontró imagen")
+![LOGO](https://github.com/oscarfarias297/TP1-Icaro/blob/master/Logo_Global_Seg.jpg?raw=true "No se encontró imagen")
 
 ### GLOBAL SEG!!!
