@@ -1,6 +1,5 @@
-# Ideas para nuestro MarketPlace
+# GLOBALSEG
 ---
-## Referencias
-MercadoLibre : [https://mercadoLibre.com.ar]
+## SOLUCIONES EN MANTENIMIENTO, SEGURIDAD E HIGIENE
 
-[Nercado Libre] [MercadoLibre]
+
