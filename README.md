@@ -1,10 +1,12 @@
 # GLOBAL SEG!!!
+
 ---
+
 ## SOLUCIONES EN MANTENIMIENTO, SEGURIDAD E HIGIENE
 
 ---
 
-> [Nos caracteriza:](https://fonts.googleapis.com)
+> Nos caracteriza:
 - Amplia trayectoria
 - Asesoramientos
 - Cotizaciones
@@ -25,9 +27,9 @@
 
 ![LOGO](https://github.com/oscarfarias297/TP1-Icaro/blob/master/Logo_Global_Seg.jpg?raw=true "No se encontró imagen")
 
-
-
-
+---
+---
+---
 # SEGUINOS EN NUESTRAS REDES SOCIALES!!!
 
 
