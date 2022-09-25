@@ -19,7 +19,9 @@
 - Soluciones de urgencias
 
 ### Nuestra Priodidad:
-- Siempre dispuestos a brindar un servicio 
+- Siempre dispuestos a brindar un servicio de calidad y exigencia a la altura de nuestros clientes. Contamos con  herramientas de última tecnología 
+
+***
 
 ![LOGO](https://github.com/oscarfarias297/TP1-Icaro/blob/master/Logo_Global_Seg.jpg?raw=true "No se encontró imagen")
 
