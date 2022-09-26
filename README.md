@@ -32,7 +32,7 @@
 - 3D8361
 - D6CDA4
 
-(cargar paleta colores jpg)
+[PaletaColores](addColors)
 ---
 ## Tipografía
 ---
