@@ -32,7 +32,7 @@
 - 3D8361
 - D6CDA4
 
-[PaletaColores](addColors)
+[PaletaColores](https://github.com/oscarfarias297/TP1-Icaro/blob/master/paletaColores.jpg?raw=true "Sin Imagen")
 ---
 ## Tipografía
 ---
