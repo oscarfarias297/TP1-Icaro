@@ -8,7 +8,7 @@
 
 ## RESEÑA:
 
-### Somos una PYME dedicada al manenimiento electromecánico e higiene y seguridad en el trabajo. Nuestra actividad se orienta principalmente a la medición de puesta a tierra (PAT) y control de continuidad de las masas, cumpliendo con el protocolo de resolución 900/15 de la Superintendencia de Riesgo del Trabajo.
+### Somos una PYME dedicada al manenimiento electromecánico e higiene y seguridad en el trabajo. Nuestra actividad se orienta principalmente a la medición de puesta a tierra (PAT) y control de continuidad de las masas, cumpliendo con el protocolo de resolución [900/2015](https://www.srt.gob.ar/wp-content/uploads/2014/03/images_pdf_Resolucion_900-15_Puesta_a_tierra.pdf) de la Superintendencia de Riesgo del Trabajo.
 ---
 > ### Nos caracteriza:
 - Amplia trayectoria
